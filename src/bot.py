@@ -1,14 +1,18 @@
-from telegram import Update
-from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
+import telebot
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+bot = telebot.TeleBot(str(os.getenv('TELEGRAM_TOKEN')), parse_mode=None)
+
+@bot.message_handler(commands=['start', 'help'])
+def send_welcome(message):
+	bot.reply_to(message, "please send the link of the item you want to be tracked:")
 
 
-async def hello(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    await update.message.reply_text(f'Hello {update.effective_user.first_name}')
-    update.message.reply_text(f"what's good my g ")
 
+@bot.message_handler(func=lambda message: True)
+def echo_all(message):
+	bot.reply_to(message, message.text)
 
-app = ApplicationBuilder().token("YOUR TOKEN HERE").build()
-
-app.add_handler(CommandHandler("hello", hello))
-
-app.run_polling()
+bot.infinity_polling()
