@@ -1,0 +1,381 @@
+[
+    {
+      "productId": 204266239,
+      "productCode": "126284574",
+      "productPrice": {
+        "current": {
+          "value": 90,
+          "text": "90.00 ILS",
+          "versionId": "REGP0000020001000000030524622",
+          "conversionId": "10813"
+        },
+        "previous": {
+          "value": 90,
+          "text": "90.00 ILS",
+          "versionId": "REGP0000020001000000030524622",
+          "conversionId": "10813"
+        },
+        "rrp": {
+          "value": null,
+          "text": null,
+          "versionId": "REGP0000020001000000030524622",
+          "conversionId": "10813"
+        },
+        "xrp": {
+          "value": 17.15,
+          "text": "£17.15",
+          "versionId": "REGP0000020001000000030524622",
+          "conversionId": "10814"
+        },
+        "currency": "ILS",
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "startDateTime": "2023-06-14T01:10:08Z",
+        "previousEndDate": null,
+        "lowestPriceInLast30DaysValue": null,
+        "lowestPriceInLast30DaysText": null,
+        "lowestPriceInLast30DaysEndDate": null,
+        "lowestPriceInLast30DaysPercentage": null,
+        "wasPriceStartDate": "2023-06-15T10:38:32.134Z"
+      },
+      "discountPercentage": 0,
+      "variants": [
+        {
+          "id": 204266241,
+          "variantId": 204266241,
+          "sku": "126288537",
+          "isInStock": true,
+          "isLowInStock": true,
+          "stockLastUpdatedDate": "2023-06-15T11:15:20.809Z",
+          "warehouse": null,
+          "source": null,
+          "seller": null,
+          "price": {
+            "current": {
+              "value": 90,
+              "text": "90.00 ILS",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "previous": {
+              "value": 90,
+              "text": "90.00 ILS",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "rrp": {
+              "value": null,
+              "text": null,
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "xrp": {
+              "value": 17.15,
+              "text": "£17.15",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10814"
+            },
+            "currency": "ILS",
+            "isMarkedDown": false,
+            "isOutletPrice": false,
+            "startDateTime": "2023-06-14T01:11:07Z",
+            "previousEndDate": null,
+            "lowestPriceInLast30DaysValue": null,
+            "lowestPriceInLast30DaysText": null,
+            "lowestPriceInLast30DaysEndDate": null,
+            "lowestPriceInLast30DaysPercentage": null,
+            "wasPriceStartDate": "2023-06-15T10:38:32.134Z"
+          },
+          "discountPercentage": 0
+        },
+        {
+          "id": 204266242,
+          "variantId": 204266242,
+          "sku": "126288538",
+          "isInStock": true,
+          "isLowInStock": false,
+          "stockLastUpdatedDate": "2023-06-15T11:15:20.807Z",
+          "warehouse": null,
+          "source": null,
+          "seller": null,
+          "price": {
+            "current": {
+              "value": 90,
+              "text": "90.00 ILS",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "previous": {
+              "value": 90,
+              "text": "90.00 ILS",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "rrp": {
+              "value": null,
+              "text": null,
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "xrp": {
+              "value": 17.15,
+              "text": "£17.15",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10814"
+            },
+            "currency": "ILS",
+            "isMarkedDown": false,
+            "isOutletPrice": false,
+            "startDateTime": "2023-06-14T01:10:39Z",
+            "previousEndDate": null,
+            "lowestPriceInLast30DaysValue": null,
+            "lowestPriceInLast30DaysText": null,
+            "lowestPriceInLast30DaysEndDate": null,
+            "lowestPriceInLast30DaysPercentage": null,
+            "wasPriceStartDate": "2023-06-15T10:38:32.134Z"
+          },
+          "discountPercentage": 0
+        },
+        {
+          "id": 204266243,
+          "variantId": 204266243,
+          "sku": "126288540",
+          "isInStock": true,
+          "isLowInStock": false,
+          "stockLastUpdatedDate": "2023-06-15T11:15:20.801Z",
+          "warehouse": null,
+          "source": null,
+          "seller": null,
+          "price": {
+            "current": {
+              "value": 90,
+              "text": "90.00 ILS",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "previous": {
+              "value": 90,
+              "text": "90.00 ILS",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "rrp": {
+              "value": null,
+              "text": null,
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "xrp": {
+              "value": 17.15,
+              "text": "£17.15",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10814"
+            },
+            "currency": "ILS",
+            "isMarkedDown": false,
+            "isOutletPrice": false,
+            "startDateTime": "2023-06-14T01:12:30Z",
+            "previousEndDate": null,
+            "lowestPriceInLast30DaysValue": null,
+            "lowestPriceInLast30DaysText": null,
+            "lowestPriceInLast30DaysEndDate": null,
+            "lowestPriceInLast30DaysPercentage": null,
+            "wasPriceStartDate": "2023-06-15T10:38:32.134Z"
+          },
+          "discountPercentage": 0
+        },
+        {
+          "id": 204266244,
+          "variantId": 204266244,
+          "sku": "126288543",
+          "isInStock": true,
+          "isLowInStock": false,
+          "stockLastUpdatedDate": "2023-06-15T11:15:20.812Z",
+          "warehouse": null,
+          "source": null,
+          "seller": null,
+          "price": {
+            "current": {
+              "value": 90,
+              "text": "90.00 ILS",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "previous": {
+              "value": 90,
+              "text": "90.00 ILS",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "rrp": {
+              "value": null,
+              "text": null,
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "xrp": {
+              "value": 17.15,
+              "text": "£17.15",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10814"
+            },
+            "currency": "ILS",
+            "isMarkedDown": false,
+            "isOutletPrice": false,
+            "startDateTime": "2023-06-14T01:10:08Z",
+            "previousEndDate": null,
+            "lowestPriceInLast30DaysValue": null,
+            "lowestPriceInLast30DaysText": null,
+            "lowestPriceInLast30DaysEndDate": null,
+            "lowestPriceInLast30DaysPercentage": null,
+            "wasPriceStartDate": "2023-06-15T10:38:32.134Z"
+          },
+          "discountPercentage": 0
+        },
+        {
+          "id": 204266245,
+          "variantId": 204266245,
+          "sku": "126288539",
+          "isInStock": true,
+          "isLowInStock": false,
+          "stockLastUpdatedDate": "2023-06-15T11:15:20.814Z",
+          "warehouse": null,
+          "source": null,
+          "seller": null,
+          "price": {
+            "current": {
+              "value": 90,
+              "text": "90.00 ILS",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "previous": {
+              "value": 90,
+              "text": "90.00 ILS",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "rrp": {
+              "value": null,
+              "text": null,
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "xrp": {
+              "value": 17.15,
+              "text": "£17.15",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10814"
+            },
+            "currency": "ILS",
+            "isMarkedDown": false,
+            "isOutletPrice": false,
+            "startDateTime": "2023-06-14T01:13:28Z",
+            "previousEndDate": null,
+            "lowestPriceInLast30DaysValue": null,
+            "lowestPriceInLast30DaysText": null,
+            "lowestPriceInLast30DaysEndDate": null,
+            "lowestPriceInLast30DaysPercentage": null,
+            "wasPriceStartDate": "2023-06-15T10:38:32.134Z"
+          },
+          "discountPercentage": 0
+        },
+        {
+          "id": 204266246,
+          "variantId": 204266246,
+          "sku": "126288541",
+          "isInStock": true,
+          "isLowInStock": false,
+          "stockLastUpdatedDate": "2023-06-15T11:15:20.805Z",
+          "warehouse": null,
+          "source": null,
+          "seller": null,
+          "price": {
+            "current": {
+              "value": 90,
+              "text": "90.00 ILS",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "previous": {
+              "value": 90,
+              "text": "90.00 ILS",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "rrp": {
+              "value": null,
+              "text": null,
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "xrp": {
+              "value": 17.15,
+              "text": "£17.15",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10814"
+            },
+            "currency": "ILS",
+            "isMarkedDown": false,
+            "isOutletPrice": false,
+            "startDateTime": "2023-06-14T01:11:59Z",
+            "previousEndDate": null,
+            "lowestPriceInLast30DaysValue": null,
+            "lowestPriceInLast30DaysText": null,
+            "lowestPriceInLast30DaysEndDate": null,
+            "lowestPriceInLast30DaysPercentage": null,
+            "wasPriceStartDate": "2023-06-15T10:38:32.134Z"
+          },
+          "discountPercentage": 0
+        },
+        {
+          "id": 204266247,
+          "variantId": 204266247,
+          "sku": "126288542",
+          "isInStock": true,
+          "isLowInStock": false,
+          "stockLastUpdatedDate": "2023-06-15T11:15:20.803Z",
+          "warehouse": null,
+          "source": null,
+          "seller": null,
+          "price": {
+            "current": {
+              "value": 90,
+              "text": "90.00 ILS",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "previous": {
+              "value": 90,
+              "text": "90.00 ILS",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "rrp": {
+              "value": null,
+              "text": null,
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10813"
+            },
+            "xrp": {
+              "value": 17.15,
+              "text": "£17.15",
+              "versionId": "REGP0000020001000000030524622",
+              "conversionId": "10814"
+            },
+            "currency": "ILS",
+            "isMarkedDown": false,
+            "isOutletPrice": false,
+            "startDateTime": "2023-06-14T01:12:18Z",
+            "previousEndDate": null,
+            "lowestPriceInLast30DaysValue": null,
+            "lowestPriceInLast30DaysText": null,
+            "lowestPriceInLast30DaysEndDate": null,
+            "lowestPriceInLast30DaysPercentage": null,
+            "wasPriceStartDate": "2023-06-15T10:38:32.134Z"
+          },
+          "discountPercentage": 0
+        }
+      ]
+    }
+  ]
